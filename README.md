@@ -2,7 +2,7 @@
 
 ## TODO list
 
-[ ] setup kuberneted in local or private server (minikube)
-[ ] install fluent
-[ ] install zookeeper
-[ ] install kafka
+- [ ]  setup kuberneted in local or private server (minikube)
+- [ ] install fluent
+- [ ] install zookeeper
+- [ ] install kafka
